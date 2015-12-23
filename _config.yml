@@ -1,0 +1,28 @@
+name: petite
+favicon: null
+layout_spectrum: 0.6869472067337483
+typography_spectrum: 0.4475069355685264
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.25866353837773204
+  lightness: 0.46790417237207294
+  saturation: 0.926741556962952
+  rhythmicContrast: 0.21831358200870454
+purpose: []
